@@ -1,4 +1,14 @@
-Nothing to see here.
+---
+layout: default
+permalink: /
+title: Test page number 42
+---
+[Test link](https://google.com)
 
-Move along.
+# Test heading #
 
+# Test heading also #
+
+## Test sub heading ##
+
+### test sub sub heading ###
