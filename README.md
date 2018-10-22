@@ -3,7 +3,7 @@ layout: default
 permalink: /
 title: Test page number 42
 ---
-[Test link](https://google.com)
+[Test link](index.html)
 
 # Test heading #
 
